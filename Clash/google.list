@@ -1,0 +1,12 @@
+rules:
+  - DOMAIN-SUFFIX,googleusercontent.com,Proxy
+  - DOMAIN-SUFFIX,clients.google.com,Proxy
+  - DOMAIN-SUFFIX,clients6.google.com,Proxy
+  - DOMAIN-SUFFIX,apis.google.com,Proxy
+  - DOMAIN-SUFFIX,ssl.gstatic.com,Proxy
+  - DOMAIN-SUFFIX,gstatic.com,Proxy
+  - DOMAIN-SUFFIX,googletagmanager.com,Proxy
+  - DOMAIN-SUFFIX,oauthaccountmanager.googleapis.com,Proxy
+  - DOMAIN-SUFFIX,play.googleapis.com,Proxy
+  - DOMAIN-SUFFIX,content.googleapis.com,Proxy
+  - DOMAIN-SUFFIX,accounts.youtube.com,Proxy
