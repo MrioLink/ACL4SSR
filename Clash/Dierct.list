@@ -6,7 +6,7 @@ DOMAIN-SUFFIX,tracker.m-team.cc
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,fengshows
 DOMAIN-KEYWORD,miguvideo
-DOMAIN-KEYWORD,pipyzhang
+DOMAIN-KEYWORD,pipyzhang.com
 DOMAIN-SUFFIX,emby.pipyzhang.com
 DOMAIN-SUFFIX,movie.pipyzhang.com
 DOMAIN-SUFFIX,list.pipyzhang.com
@@ -16,3 +16,4 @@ DOMAIN-SUFFIX,fnos.pipyzhang.com
 DOMAIN-KEYWORD,stun
 DOMAIN-SUFFIX,flat.pipyzhang.com
 DOMAIN-SUFFIX,fish.pipyzhang.com
+DOMAIN-SUFFIX,api.pipyzhang.com
