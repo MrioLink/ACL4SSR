@@ -8,3 +8,5 @@ DOMAIN-KEYWORD,miguvideo
 DOMAIN-KEYWORD,pipyzhang.com
 DOMAIN-KEYWORD,stun
 DOMAIN-SUFFIX,turn.cloudflare.com
+#直连emby
+DOMAIN-KEYWORD,miraiemby
