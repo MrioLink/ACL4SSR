@@ -1,11 +1,10 @@
 DOMAIN-SUFFIX,r.inews.qq.com 
 DOMAIN-SUFFIX,myip.ipip.net  
-DOMAIN-KEYWORD,sdo
-DOMAIN-SUFFIX,ff.autopatch.sdo.com
+DOMAIN-SUFFIX,sdo.com
 DOMAIN-KEYWORD,tracker
 DOMAIN-KEYWORD,fengshows
 DOMAIN-KEYWORD,miguvideo
-DOMAIN-KEYWORD,pipyzhang.com
+DOMAIN-SUFFIX,pipyzhang.com
 DOMAIN-KEYWORD,stun
 DOMAIN-SUFFIX,turn.cloudflare.com
 #直连emby
