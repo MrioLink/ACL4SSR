@@ -11,5 +11,3 @@ DOMAIN-SUFFIX,turn.cloudflare.com
 DOMAIN-KEYWORD,miraiemby
 #GitHub反代
 DOMAIN-KEYWORD,gh-proxy
-#直连linux.do
-DOMAIN-SUFFIX,linux.do
