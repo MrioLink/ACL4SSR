@@ -1,5 +1,4 @@
-# 内容：emby
-DOMAIN-KEYWORD,emby
+# 内容：emby
 DOMAIN-KEYWORD,openani
 DOMAIN-KEYWORD,open.ani
 DOMAIN-KEYWORD,nijigem
@@ -12,6 +11,10 @@ DOMAIN,emby.jingzhe.pro
 DOMAIN,openani.an-i.workers.dev
 DOMAIN-SUFFIX,an-i.workers.dev
 DOMAIN-KEYWORD,pandalive
+DOMAIN,mi1.miraiemby.com
+DOMAIN,stream-1.miraiemby.com
+DOMAIN,
+DOMAIN,
 
 
 
