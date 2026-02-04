@@ -8,7 +8,10 @@ DOMAIN-SUFFIX,pipyzhang.com
 DOMAIN-KEYWORD,stun
 DOMAIN-SUFFIX,turn.cloudflare.com
 #直连emby
-DOMAIN-KEYWORD,miraiemby
+DOMAIN,mi2.miraiemby.com
+DOMAIN,mi3.miraiemby.com
+DOMAIN,stream-1.jiedaibao.gs
+DOMAIN,stream-3.miraiemby.com
 #GitHub反代
 DOMAIN-KEYWORD,gh-proxy
 DOMAIN-SUFFIX,gamekee.com
