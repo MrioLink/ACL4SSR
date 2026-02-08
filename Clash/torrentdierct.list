@@ -31,7 +31,7 @@ DOMAIN,pterclub.net
 DOMAIN,audiences.me
 DOMAIN,hdtime.org
 DOMAIN,hdarea.club
-DOMAIN,bilibili.download
+DOMAIN-SUFFIX,bilibili.download
 DOMAIN,gamegamept.com
 DOMAIN,pt.novahd.top
 DOMAIN,star-space.net
