@@ -1,14 +1,12 @@
-# pipy 代理自用
-DOMAIN-KEYWORD,jable
-DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
-DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
-DOMAIN-SUFFIX,hub5pn.wap.sandai.net
-DOMAIN-SUFFIX,hub5pnc.sandai.net
-DOMAIN-SUFFIX,hub5pr.v6.phub.sandai.net
-DOMAIN-SUFFIX,hubciddata.sandai.net
-DOMAIN-KEYWORD,mypikpak
-DOMAIN-SUFFIX,my.yecaoyun.com
+#jable
++.jable.tv
+#pikpak云盘
++.mypikpak.com
+#野草云
++.yecaoyun.com
 #随机图
-DOMAIN,pic.re
-DOMAIN-SUFFIX,linux.do
-DOMAIN-SUFFIX,oracle.com
++.pic.re
+#liunx do
++.linux.do
+#甲骨文
++.oracle.com
