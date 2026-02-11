@@ -1,6 +1,4 @@
 # pipy 代理自用
-DOMAIN,zhuque.in
-IP-CIDR,151.242.42.152/32
 DOMAIN-KEYWORD,jable
 DOMAIN-SUFFIX,dlandroid.rcv.sandai.net
 DOMAIN-SUFFIX,hub5idx.v6.shub.sandai.net
