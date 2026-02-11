@@ -1,19 +1,16 @@
-# 内容：emby
-DOMAIN-KEYWORD,openani
-DOMAIN-KEYWORD,open.ani
-DOMAIN-KEYWORD,nijigem
-DOMAIN-KEYWORD,mobaiemby
-DOMAIN,media.nijigem.by
-DOMAIN,default.cdn.bgp.yt
-DOMAIN,bptv.freetv.top
-DOMAIN,m.mobaiemby.site
-DOMAIN,emby.jingzhe.pro 
-DOMAIN,openani.an-i.workers.dev
-DOMAIN-SUFFIX,an-i.workers.dev
-DOMAIN-KEYWORD,pandalive
-DOMAIN,mi1.miraiemby.com
-DOMAIN,stream-1.miraiemby.com
+#OpenANI
+＋.openani
+＋.open.ani
+＋.an-i.workers.dev
+#二次元
+＋.nijigem.by
+＋.cdn.bgp.yt
+#墨白
+＋.mobaiemby.site
+#惊蛰
+＋.jingzhe.pro 
+#mirai
+mi1.miraiemby.com
+stream-1.miraiemby.com
 
-
-
-
++.freetv.fun
