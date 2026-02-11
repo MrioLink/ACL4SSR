@@ -4,13 +4,14 @@ myip.ipip.net
 ＋.fengshows.com
 ＋.miguvideo.com
 ＋.pipyzhang.com
-#直连emby
-mi2.miraiemby.com
-mi3.miraiemby.com
-stream-1.jiedaibao.gs
-stream-3.miraiemby.com
 #GitHub反代
 ＋.gh-proxy
 #游戏wiki
 ＋.gamekee.com
+#Emby
+##mirai
+mi2.miraiemby.com
+stream-1.jiedaibao.gs
+mi3.miraiemby.com
+stream-3.miraiemby.com
 
